@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "api",
+			"path": "api"
+		},
+		{
+			"name": "config",
+			"path": "config"
+		},
+		{
+			"name": "functions",
+			"path": "functions"
+		}
+	]
+}
